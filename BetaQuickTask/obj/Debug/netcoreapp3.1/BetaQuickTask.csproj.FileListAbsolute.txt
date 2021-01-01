@@ -1,0 +1,17 @@
+C:\Users\Franklin\source\repos\BetaQuickTask\bin\Debug\netcoreapp3.1\BetaQuickTask.exe
+C:\Users\Franklin\source\repos\BetaQuickTask\bin\Debug\netcoreapp3.1\BetaQuickTask.deps.json
+C:\Users\Franklin\source\repos\BetaQuickTask\bin\Debug\netcoreapp3.1\BetaQuickTask.runtimeconfig.json
+C:\Users\Franklin\source\repos\BetaQuickTask\bin\Debug\netcoreapp3.1\BetaQuickTask.runtimeconfig.dev.json
+C:\Users\Franklin\source\repos\BetaQuickTask\bin\Debug\netcoreapp3.1\BetaQuickTask.dll
+C:\Users\Franklin\source\repos\BetaQuickTask\bin\Debug\netcoreapp3.1\BetaQuickTask.pdb
+C:\Users\Franklin\source\repos\BetaQuickTask\bin\Debug\netcoreapp3.1\Gremlin.Net.dll
+C:\Users\Franklin\source\repos\BetaQuickTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Franklin\source\repos\BetaQuickTask\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\Franklin\source\repos\BetaQuickTask\obj\Debug\netcoreapp3.1\BetaQuickTask.csprojAssemblyReference.cache
+C:\Users\Franklin\source\repos\BetaQuickTask\obj\Debug\netcoreapp3.1\BetaQuickTask.AssemblyInfoInputs.cache
+C:\Users\Franklin\source\repos\BetaQuickTask\obj\Debug\netcoreapp3.1\BetaQuickTask.AssemblyInfo.cs
+C:\Users\Franklin\source\repos\BetaQuickTask\obj\Debug\netcoreapp3.1\BetaQuickTask.csproj.CoreCompileInputs.cache
+C:\Users\Franklin\source\repos\BetaQuickTask\obj\Debug\netcoreapp3.1\BetaQuickTask.csproj.CopyComplete
+C:\Users\Franklin\source\repos\BetaQuickTask\obj\Debug\netcoreapp3.1\BetaQuickTask.dll
+C:\Users\Franklin\source\repos\BetaQuickTask\obj\Debug\netcoreapp3.1\BetaQuickTask.pdb
+C:\Users\Franklin\source\repos\BetaQuickTask\obj\Debug\netcoreapp3.1\BetaQuickTask.genruntimeconfig.cache
